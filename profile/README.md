@@ -1,6 +1,6 @@
 ## Hello There! 👋
 
-Quiz roulette is a platform to setup and manage Quiz. It intents to be avaiable for general public as well as organisations who wishes setup whole platform in their orgs space without sharing data outside of their network.
+Quiz roulette is a platform that allows users to create and manage quizzes. It is intended for use by the general public as well as organizations that want to set up a quiz platform within their own network without sharing data outside of their network. Quiz roulette provides users with the tools and resources needed to create and manage quizzes, making it easy to set up and run quizzes for various purposes.
 
 ### 🧙 Basic Functionality Available:
 - Player View
@@ -16,7 +16,7 @@ As the functionality is not available to public yet, hence there is no profit or
 - Start a discussion or reach out in the existing discussions channel
 
 ### 🙋‍ About Us:
-The Project idea was initiated as part of the college CCA, and turn into a PAAS as it went on. The original project videos can be found below, and it was initially started in 2017.
+The project was originally started as a college extracurricular activity, but has evolved into a platform as a service (PAAS). The project was initiated in 2017 and original videos of the project can be found online.
 
 MVP 1.0 https://www.youtube.com/watch?v=XlCy6BCEVAA
 
