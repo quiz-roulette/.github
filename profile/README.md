@@ -9,7 +9,7 @@ Quiz roulette is a platform that allows users to create and manage quizzes. It i
 - Live Dashboard View
 
 ### 🌈 Contributions:
-As the functionality is not available to public yet, hence there is no profit or revenue generated. Please feel free to contribute:
+Please feel free to contribute:
 - Raise PR
 - Let the maintainers know why the change is needed
 - Rasie a Bug or Security Vulnerability for the repo
