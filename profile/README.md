@@ -13,7 +13,7 @@ Please feel free to contribute:
 - Raise PR
 - Let the maintainers know why the change is needed
 - Rasie a Bug or Security Vulnerability for the repo
-- Start a discussion or reach out in the existing discussions channel
+- Start a [discussion](https://github.com/orgs/quiz-roulette/discussions) or reach out in the existing discussions channel
 
 ### 🙋‍ About Us:
 The project was originally started as a college extracurricular activity, but has evolved into a platform as a service (PAAS). The project was initiated in 2017 and original videos of the project can be found online.
