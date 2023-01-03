@@ -1,4 +1,4 @@
-<mxfile modified="2023-01-03T15:14:33.307Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="MuiptKP2G3uJTStSyinb" version="20.8.0" type="github">
+<mxfile modified="2023-01-03T15:15:12.410Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="VG1e11nWQNitJ4HWtdD8" version="20.8.0" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="954" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="420" y="99" width="590" height="561" as="geometry" />
         </mxCell>
         <mxCell id="997" value="Multiple&lt;br&gt;Clients&lt;br&gt;API Requests&lt;br&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" parent="1" vertex="1">
-          <mxGeometry x="290" y="140" width="110" height="520" as="geometry" />
+          <mxGeometry x="290" y="100" width="110" height="560" as="geometry" />
         </mxCell>
         <mxCell id="818" value="Architecture: Quiz Roulette" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="40" width="750" height="40" as="geometry" />
