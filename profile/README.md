@@ -10,6 +10,7 @@ Quiz roulette is a platform that allows users to create and manage quizzes. It i
 
 ### 📚 API Documentation:
 - [Postman](https://documenter.getpostman.com/view/417229/2s8YzS1PfM)
+- [Architecture](https://github.com/orgs/quiz-roulette/discussions/2#discussioncomment-4582824)
 
 ### 🌈 Contributions:
 Please feel free to contribute:
